@@ -1,0 +1,60 @@
+[33mcommit 83a3b619d0f16d11364e8518a91709b56f46d685[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Tue Sep 9 20:03:53 2025 +0200
+
+    J:
+
+[33mcommit c5ef7526f1f03b37bc757eb529c13356e929ce56[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Tue Sep 9 19:59:55 2025 +0200
+
+    I:
+
+[33mcommit 79ad43b1551d7a20f570500266a7553d6755561e[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Tue Sep 9 19:58:59 2025 +0200
+
+    H:
+
+[33mcommit 606049fac2188d928351f67c6d4a17ff457923cf[m[33m ([m[1;32mmain[m[33m)[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Mon Sep 8 04:36:20 2025 +0200
+
+    G:
+
+[33mcommit 35ba5efba170d055b1d466f213bc2a2b192ca103[m
+Merge: e0e8d57 9259987
+Author: Teixel0 <Teixel@proton.me>
+Date:   Mon Sep 8 04:26:27 2025 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit e0e8d5730bab025980e6e6fdd894ceaf20c7bddb[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Sun Sep 7 20:23:53 2025 +0200
+
+    E:
+
+[33mcommit 92599871353a272575493c8ee5a2bd3b32fd98cd[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Sun Sep 7 20:12:51 2025 +0200
+
+    D:
+
+[33mcommit 0f35e0a0493ae3507003b10d86ed46d2aec66fc8[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Thu Aug 28 16:36:26 2025 +0200
+
+    C: add starwars.md and dunes.md in ./quotes/
+
+[33mcommit 983aa22fb31bbed40f6db277f5cc732b49729f56[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Thu Aug 28 16:25:03 2025 +0200
+
+    B: add titles.md
+
+[33mcommit 309a5f68ebddb8074800202260d17a2eea6adeb4[m
+Author: Teixel0 <Teixel@proton.me>
+Date:   Thu Aug 28 16:05:37 2025 +0200
+
+    A: add contents.md
